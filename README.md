@@ -41,9 +41,13 @@ Borrow out = A'Bin + A'B + BBin
 ![Screenshot (30)](https://github.com/user-attachments/assets/db94c0be-5de3-48a0-811c-8606fb989d19)
 
 **Procedure**
-
-Write the detailed procedure here
-
+```
+1.Type the program in the Quartus software.
+2.compile and run the program.
+3.geenerate the RTL schematic and save the logical diagram.
+4.creat the node for the input and output to generate the timing diagram.
+5.for the different input combination generate the timing diagram.
+```
 **Program:**
 ```
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
@@ -81,11 +85,11 @@ endmodule
 ```
 **RTL Schematic**
 ![Screenshot (11)](https://github.com/user-attachments/assets/0821c932-833b-4b8d-8901-d4200985a6a0)
-![Screenshot (13)](https://github.com/user-attachments/assets/4bed26f1-a49c-41c8-a462-4a85ebcd1d3c)
+![Screenshot (9)](https://github.com/user-attachments/assets/3fd23640-b6a7-4331-ab35-83e8a36ffb14)
 
 **Output Timing Waveform**
 ![Screenshot (12)](https://github.com/user-attachments/assets/7e7190a0-1ebc-47b0-acab-620fddfbf89f)
-![Screenshot (10)](https://github.com/user-attachments/assets/ab900bcc-6f89-46eb-8bf0-33caccad9701)
+![Screenshot (10)](https://github.com/user-attachments/assets/3daf62e3-1215-4da9-963b-c300c74a6f0f)
 
 **Result:**
 
